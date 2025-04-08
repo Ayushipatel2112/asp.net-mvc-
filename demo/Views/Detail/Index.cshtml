@@ -1,0 +1,46 @@
+﻿
+
+<html>
+	<head>
+		<title>Employee Detial</title>
+		<style>
+		table {
+			width: 50%;
+			border-collapse: collapse;
+		}
+
+		table, th, td {
+			border: 1px solid black;
+		}
+
+		th, td {
+			padding: 15px;
+			text-align: left;
+		}
+
+		th {
+			background-color: white;
+		}
+		</style>
+	</head>
+
+	<body>
+		<table border="1">
+		<tr>
+			<th>ID</th>
+			<th>Name</th>
+			<th>Email</th>
+			<th>Phone</th>
+		</tr>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@item.Id</td>
+				<td>@item.Name</td>
+				<td>@item.Email</td>
+				<td>@item.Phone</td>
+			</tr>
+		}
+		</table>
+	</body>
+</html>

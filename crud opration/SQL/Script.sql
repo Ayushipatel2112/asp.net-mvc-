@@ -1,0 +1,12 @@
+﻿CREATE DATABASE CRUD_DB;
+GO
+
+USE CRUD_DB;
+GO
+
+CREATE TABLE Tasks (
+    TaskId INT IDENTITY(1,1) PRIMARY KEY,
+    TaskName NVARCHAR(255) NOT NULL,
+    Description NVARCHAR(MAX),
+    Status NVARCHAR(50)
+);

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Layout-changes.props" />
+</Project>

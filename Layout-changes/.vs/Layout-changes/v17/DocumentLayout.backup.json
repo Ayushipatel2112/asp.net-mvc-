@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|c:\\users\\dalsa\\source\\repos\\asp.net(razor)\\layout-changes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|c:\\users\\dalsa\\source\\repos\\asp.net(razor)\\layout-changes\\views\\sdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|solutionrelative:views\\sdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|c:\\users\\dalsa\\source\\repos\\asp.net(razor)\\layout-changes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|c:\\users\\dalsa\\source\\repos\\asp.net(razor)\\layout-changes\\student\\studentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|solutionrelative:student\\studentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|c:\\users\\dalsa\\source\\repos\\asp.net(razor)\\layout-changes\\controllers\\sdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|solutionrelative:controllers\\sdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|c:\\users\\dalsa\\source\\repos\\asp.net(razor)\\layout-changes\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|c:\\users\\dalsa\\source\\repos\\asp.net(razor)\\layout-changes\\controllers\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|solutionrelative:controllers\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|c:\\users\\dalsa\\source\\repos\\asp.net(razor)\\layout-changes\\controllers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|solutionrelative:controllers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|c:\\users\\dalsa\\source\\repos\\asp.net(razor)\\layout-changes\\models\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|solutionrelative:models\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|c:\\users\\dalsa\\source\\repos\\asp.net(razor)\\layout-changes\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|c:\\users\\dalsa\\source\\repos\\asp.net(razor)\\layout-changes\\views\\student\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|solutionrelative:views\\student\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|c:\\users\\dalsa\\source\\repos\\asp.net(razor)\\layout-changes\\views\\student\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|solutionrelative:views\\student\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|c:\\users\\dalsa\\source\\repos\\asp.net(razor)\\layout-changes\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D6B264B-81B1-4547-B426-7E79D27EE434}|Layout-changes.csproj|solutionrelative:views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Models\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "Models\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Models\\Service\\Index.cshtml",
+              "RelativeToolTip": "Models\\Service\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T09:59:28.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "Views\\Service\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T05:11:12.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Controllers\\Service.cs",
+              "RelativeDocumentMoniker": "Controllers\\Service.cs",
+              "ToolTip": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Controllers\\Service.cs",
+              "RelativeToolTip": "Controllers\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:09:26.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Views\\Sdetail\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sdetail\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Views\\Sdetail\\Index.cshtml",
+              "RelativeToolTip": "Views\\Sdetail\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T05:57:38.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sdetail.cs",
+              "DocumentMoniker": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Controllers\\Sdetail.cs",
+              "RelativeDocumentMoniker": "Controllers\\Sdetail.cs",
+              "ToolTip": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Controllers\\Sdetail.cs",
+              "RelativeToolTip": "Controllers\\Sdetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:54:15.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Studentdetail.cs",
+              "DocumentMoniker": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\student\\Studentdetail.cs",
+              "RelativeDocumentMoniker": "student\\Studentdetail.cs",
+              "ToolTip": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\student\\Studentdetail.cs",
+              "RelativeToolTip": "student\\Studentdetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:51:25.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Models\\student.cs",
+              "RelativeDocumentMoniker": "Models\\student.cs",
+              "ToolTip": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Models\\student.cs",
+              "RelativeToolTip": "Models\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:48:22.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T05:07:02.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:06:41.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Views\\Student\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Views\\Student\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Student\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T05:06:32.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Views\\Student\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\About.cshtml",
+              "ToolTip": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Views\\Student\\About.cshtml",
+              "RelativeToolTip": "Views\\Student\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T05:05:51.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T05:05:37.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Controllers\\Student.cs",
+              "RelativeDocumentMoniker": "Controllers\\Student.cs",
+              "ToolTip": "C:\\Users\\dalsa\\source\\repos\\asp.net(razor)\\Layout-changes\\Controllers\\Student.cs",
+              "RelativeToolTip": "Controllers\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:03:10.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

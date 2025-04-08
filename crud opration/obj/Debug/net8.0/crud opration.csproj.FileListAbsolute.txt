@@ -1,0 +1,87 @@
+D:\asp.net\crud opration\bin\Debug\net8.0\appsettings.Development.json
+D:\asp.net\crud opration\bin\Debug\net8.0\appsettings.json
+D:\asp.net\crud opration\bin\Debug\net8.0\crud opration.staticwebassets.runtime.json
+D:\asp.net\crud opration\bin\Debug\net8.0\crud opration.staticwebassets.endpoints.json
+D:\asp.net\crud opration\bin\Debug\net8.0\crud opration.exe
+D:\asp.net\crud opration\bin\Debug\net8.0\crud opration.deps.json
+D:\asp.net\crud opration\bin\Debug\net8.0\crud opration.runtimeconfig.json
+D:\asp.net\crud opration\bin\Debug\net8.0\crud opration.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\crud opration.pdb
+D:\asp.net\crud opration\bin\Debug\net8.0\Azure.Core.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Azure.Identity.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Dapper.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\System.ClientModel.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\System.Memory.Data.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\asp.net\crud opration\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\asp.net\crud opration\obj\Debug\net8.0\crud opration.csproj.AssemblyReference.cache
+D:\asp.net\crud opration\obj\Debug\net8.0\crud opration.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net\crud opration\obj\Debug\net8.0\crud opration.AssemblyInfoInputs.cache
+D:\asp.net\crud opration\obj\Debug\net8.0\crud opration.AssemblyInfo.cs
+D:\asp.net\crud opration\obj\Debug\net8.0\crud opration.csproj.CoreCompileInputs.cache
+D:\asp.net\crud opration\obj\Debug\net8.0\crud opration.MvcApplicationPartsAssemblyInfo.cs
+D:\asp.net\crud opration\obj\Debug\net8.0\crud opration.MvcApplicationPartsAssemblyInfo.cache
+D:\asp.net\crud opration\obj\Debug\net8.0\crud opration.RazorAssemblyInfo.cache
+D:\asp.net\crud opration\obj\Debug\net8.0\crud opration.RazorAssemblyInfo.cs
+D:\asp.net\crud opration\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\asp.net\crud opration\obj\Debug\net8.0\scopedcss\bundle\crud opration.styles.css
+D:\asp.net\crud opration\obj\Debug\net8.0\scopedcss\projectbundle\crud opration.bundle.scp.css
+D:\asp.net\crud opration\obj\Debug\net8.0\staticwebassets.build.json
+D:\asp.net\crud opration\obj\Debug\net8.0\staticwebassets.development.json
+D:\asp.net\crud opration\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\asp.net\crud opration\obj\Debug\net8.0\staticwebassets\msbuild.crud opration.Microsoft.AspNetCore.StaticWebAssets.props
+D:\asp.net\crud opration\obj\Debug\net8.0\staticwebassets\msbuild.crud opration.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\asp.net\crud opration\obj\Debug\net8.0\staticwebassets\msbuild.build.crud opration.props
+D:\asp.net\crud opration\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.crud opration.props
+D:\asp.net\crud opration\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.crud opration.props
+D:\asp.net\crud opration\obj\Debug\net8.0\staticwebassets.pack.json
+D:\asp.net\crud opration\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\asp.net\crud opration\obj\Debug\net8.0\crud opr.1B586871.Up2Date
+D:\asp.net\crud opration\obj\Debug\net8.0\crud opration.dll
+D:\asp.net\crud opration\obj\Debug\net8.0\refint\crud opration.dll
+D:\asp.net\crud opration\obj\Debug\net8.0\crud opration.pdb
+D:\asp.net\crud opration\obj\Debug\net8.0\crud opration.genruntimeconfig.cache
+D:\asp.net\crud opration\obj\Debug\net8.0\ref\crud opration.dll
